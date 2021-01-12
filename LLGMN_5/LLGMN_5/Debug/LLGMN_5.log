@@ -1,0 +1,7 @@
+﻿  ソース.cpp
+C:\島研\LLGMN\LLGMN_5\LLGMN_5\ソース.cpp(142,12): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+C:\島研\LLGMN\LLGMN_5\LLGMN_5\ソース.cpp(66,54): warning C4390: ';': 制御が空の文が見つかりました。意図した記述でしょうか?
+C:\島研\LLGMN\LLGMN_5\LLGMN_5\ソース.cpp(77,56): warning C4390: ';': 制御が空の文が見つかりました。意図した記述でしょうか?
+C:\島研\LLGMN\LLGMN_5\LLGMN_5\ソース.cpp(88,54): warning C4390: ';': 制御が空の文が見つかりました。意図した記述でしょうか?
+C:\島研\LLGMN\LLGMN_5\LLGMN_5\ソース.cpp(99,56): warning C4390: ';': 制御が空の文が見つかりました。意図した記述でしょうか?
+  LLGMN_5.vcxproj -> C:\島研\LLGMN\LLGMN_5\Debug\LLGMN_5.exe
